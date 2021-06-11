@@ -1,0 +1,119 @@
+Micko_Gamer@Legion-Y740 MINGW64 /
+$ cd ~
+
+Micko_Gamer@Legion-Y740 MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+ Apple/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Documents/
+ Downloads/
+ Dropbox/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ansel/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+Micko_Gamer@Legion-Y740 MINGW64 ~
+$ cd OneDrive
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive
+$ ls
+AppData/  Desktop/  Documents/  InstallAnywhere/  Pictures/
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive
+$ cd Desktop
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive/Desktop
+$ ls
+'Adobe Illustrator 2021.lnk'*
+'Adobe InDesign 2021.lnk'*
+'Adobe Photoshop 2021.lnk'*
+'Adobe Premiere Pro 2021.lnk'*
+'Amazon Games.lnk'*
+'AutoCAD 2021 - English.lnk'*
+'CRP 314'/
+'CRP 341'/
+'CRP 412'/
+'CRP 470'/
+'CRP Textbooks'/
+'Cities Skylines.url'
+ Crashlands.url
+ Discord.lnk*
+"Don't Starve Together.url"
+'ENGL 310'/
+'Enter the Gungeon.url'
+ Facecheck.lnk*
+'Install Now Autodesk® AutoCAD® 2021.lnk'*
+ Kindle.lnk*
+'LA Final Exam'/
+'Left 4 Dead 2.url'
+ MEDA/
+'Mana Spark.url'
+'Microsoft Edge.lnk'*
+'Microsoft Teams.lnk'*
+'My Warranty.lnk'*
+'North Campus Student Housing Area Plan'/
+'Norton Installation Files.lnk'*
+'Person Information'/
+ Program/
+'REDRAGON PERDITION.lnk'*
+'RStudio Cloud Lab 6.html'
+'RStudio Cloud Lab 6_files'/
+'Risk of Rain 2.url'
+'Rogue Company.url'
+ Slack.lnk*
+'Super Bomberman R Online.url'
+'TechSF Orientation 2020-2021.pptx'
+'The Binding of Isaac Rebirth.url'
+ Valheim.url
+'Visual Studio Code.lnk'*
+ WhatsApp.lnk*
+ Zoom.lnk*
+ desktop.ini
+ investing.docx
+ summer2021-webdesign-eduardo/
+ summer2021-webdesign-michael/
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive/Desktop
+$ cd summer2021-webdesign-michael
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive/Desktop/summer2021-webdesign-michael
+$ mkdir homework
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive/Desktop/summer2021-webdesign-michael
+$ ls
+assignments/  handouts/  homework/  projects/
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive/Desktop/summer2021-webdesign-michael
+$ cd homework
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive/Desktop/summer2021-webdesign-michael/homework
+$ touch homework1-2.txt
+
+Micko_Gamer@Legion-Y740 MINGW64 ~/OneDrive/Desktop/summer2021-webdesign-michael/homework
