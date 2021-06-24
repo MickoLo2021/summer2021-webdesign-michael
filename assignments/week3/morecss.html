@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html lang= "en">
+    <head>
+        <meta charset="utf-8" />
+        <title> More CSS </title>
+
+        <!-- Internal Stylesheets -->
+        <style>
+body  
+    {
+    background-color: Pink;
+}
+
+/* 
+Specificity Values
+One Element = 1 point
+One Class = 10 point
+One ID = 100 point
+*/
+
+img 
+    {
+    height: 200px;
+    border-width: 10px;
+    border-style: double;
+    border-color: lightgreen;
+    border-radius: 15px;
+}
+/* select a class need to start with a period. Can be applied to multiple elements. */
+.portrait {
+    border-color: grey;  
+}
+
+/* select an id needs to start with the hash symbol. Can ONLY be applied to one element (per unique ID).  */
+#thunder {
+    /*
+    border-style: dotted;
+    */
+    box-shadow: 15px 10px darkgray;
+}
+
+div {
+    background-color: darkmagenta;
+    width: 600px;
+    border-style: solid;
+    border-radius: 11px;
+    color: purple;
+}
+
+div h1 {
+   color: yellow; 
+}
+
+body div .portrait {
+    border-color: peru;
+}
+
+#sad {
+    color: tomato;
+    text-decoration: blue wavy underline;
+}
+
+        </style>
+
+    </head>
+    <body>
+        <h1> My favorite alonely photo</h1>
+        
+        <img class = "portrait" src = "treegrowinlake.jpg" alt = "A clean lake'shadow reflect the tree and background" />
+
+        <img  src= "lotusflower.jpg" alt = "A Alonely lotus flower grow out from mud, pure, and unstained." />
+
+        <a href ="https://google.com/" target = "_blank"> <img class = "portrait" src= "newspaperfire.jpg" alt = "A lady in font of abandoned building, reading a newspaper that is on fire."/></a>
+
+        <img id="thunder" src = "thunder.jpg" alt = "The sky was grey and cloudy. There was thunder strike one of the mountain." />
+        
+
+        <div>
+            <h1> My favorite <span sad id="sad"> sad </span> </span> photo</h1>
+        
+            <img class = "portrait" src = "treegrowinlake.jpg" alt = "A clean lake'shadow reflect the tree and background" />
+
+            <img  src= "lotusflower.jpg" alt = "A Alonely lotus flower grow out from mud, pure, and unstained." />
+
+            <a href ="https://google.com/" target = "_blank"> <img class = "portrait" src= "newspaperfire.jpg" alt = "A lady in font of abandoned building, reading a newspaper that is on fire."/></a>
+
+            <img id="thunder" src = "thunder.jpg" alt = "The sky was grey and cloudy. There was thunder strike one of the mountain." />
+        </div>
+
+
+    </body>
+
+</html>
