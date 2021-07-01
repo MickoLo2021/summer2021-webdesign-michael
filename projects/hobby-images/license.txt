@@ -1,0 +1,67 @@
+I have 9 photos that I take from my camera
+
+A pair of glove
+File name: bike_glove.jpg
+
+Headlight
+File name: bike_headlight.jpg
+
+Check bike frame
+File name: bike_frame.jpg
+
+Flat surface
+File name: flat_surface.jpg
+
+Practice hand braking
+File name: bike_handbrake.jpg
+
+Practice one feet on pedal
+File name: pratice_pedal_step.jpg
+
+Practice pressure down the pedal
+File name: practice_pressdown_pedal.jpg
+
+
+Getting images from internet: 
+Pexels Photo License: https://www.pexels.com/license/
+Unsplash photo license: https://unsplash.com/license
+
+Bike helmet
+File name: bike_helmet.jpg
+Photo by Pavel Danilyuk from Pexels 
+Source: https://www.pexels.com/photo/road-nature-man-people-5807585/
+
+Taillight
+File name: bike_taillight.jpg
+Photo by Michael Fousert from Unsplash
+Source: https://unsplash.com/photos/_ms3EBwRmjU
+OR 
+Headlight and taillight
+File name: bike_headlight_n_taillight.jpg
+Photo by Thomas Jarrand from Unsplash
+Source: https://unsplash.com/photos/t5VZKeveQwI
+
+Flat Surface (Might be using this picture)
+File name: flatsurface.jpg
+Photo by Alexander Nadrilyanski from Pexels 
+Source: https://www.pexels.com/photo/a-young-man-riding-a-bike-in-city-3651681/
+
+Biking trail 
+File name: biking_trail.jpg
+Photo by Solare Flares from Pexels
+Source: https://www.pexels.com/photo/people-riding-bicycle-on-road-2787891/
+
+Road bikes 
+File name: road_bike.jpg
+Photo by Jean-Daniel Francoeur from Pexels
+Source: https://www.pexels.com/photo/road-sunset-man-people-7959927/
+
+Mountain bikes
+File name: mountain_bike.jpg
+Photo by Philipp M from Pexels
+Source: https://www.pexels.com/photo/black-and-white-hardtail-bike-on-brown-road-between-trees-100582/
+
+Hybrid bikes
+File name: hybrid_bike.jpg
+Photo by Bogdan Dada from Unsplash
+Source: https://unsplash.com/photos/yoxSzcRuGzU

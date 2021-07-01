@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html lang ="en">
+    <head>
+        <meta charset = "utf-8" />
+        <title> My First CSS Layout Web Page </title>
+
+        <style>
+            #container {
+                width: 870px;
+                margin-left:auto;
+                margin-right: auto;
+            }
+
+            #header {
+                background-color: burlywood;
+                color: mediumblue;
+                text-align: center;
+                font-family: "Arial";
+                font-size: 27px;
+                text-transform: capitalize;
+                border-radius: 15px;
+            }
+
+            #header h1 {
+                margin-block-end:0;
+            }
+
+            #main {
+                margin-top: 20px;
+                padding: 20px;
+                background-color: sandybrown;
+                color: white;
+                font-family: "Arial";
+                font-size: 22px;
+                font-weight: bold;
+                border-radius: 10px;
+                line-height: 25px;
+                text-align: justify;
+            }
+
+            #main p {
+                margin-block-start:0;
+            }
+
+            #main #article {
+                display: inline-block;
+                width: 550px;
+                padding-right: 25px;
+            }
+
+            #main #section {
+                display: inline-block;
+                width: 250px;
+                /* height: 100%; */
+                height: 500px;
+                background-color:sienna;
+                vertical-align: top;
+                border-radius: 12px;
+            }
+
+            #footer {
+                margin-top: 20px;
+                background-color: pink;
+                height: 15px;
+                border-radius: 12px;
+                font-size: 15px;
+                text-align: center;
+                text-transform: uppercase;
+                color: black;
+                font-family: "Arial";
+            }
+        </style>
+    </head>
+
+
+    <body>
+
+        <div id="container">
+
+        <div id= "header">
+            <h1> Welcome to My Website </h1>
+        </div>
+
+        <div id= "main">
+            <div id= "article">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius eligendi rem quaerat maiores nulla commodi vel iste praesentium dicta mollitia, ab dolorum omnis harum molestias modi. Totam perspiciatis necessitatibus inventore.</p>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione inventore deserunt a quas molestiae saepe repudiandae cumque facere quaerat quidem. Nobis labore impedit eligendi ea dignissimos laudantium earum illum quibusdam?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae totam ullam deserunt, illum porro dolorem aliquam, perferendis optio, ad laborum dolor temporibus. Quas vero earum, nobis omnis temporibus qui? Et.</p>
+            </div><div id= "section">
+
+            </div>
+
+                
+        </div>
+
+        <div id= "footer">
+            <p>Copyright &copy; 2021</p>
+        </div>
+
+        </div>
+
+    </body>
+</html>
