@@ -1,0 +1,68 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@700&display=swap" rel="stylesheet">
+
+
+The about me page (home page): Page 1
+
+Background color: Confetti (#EFD062) rgb(239, 208, 98)
+Source: https://chir.ag/projects/name-that-color/#EFD062
+
+Text-color: Nacy Blue (#000080) rgb(0,0,128)
+
+(Head Section) font size: 20px
+font-family: 'Lora', serif;
+
+Michael Lo | MEDA | Portfolio | Summer 2021
+
+(paragraph) font size: 15px
+font-family: 'Gowun Batang', serif;
+
+My name is Michael Lo. 
+I am a fouth-year transfer student at Cal Polytechnical State Univeresity in San Luis Obispo. My major is City and Regional Planning. My job is design, help and create cities and public service that are sustainable, affordable and accessible for neighborhoods and communities. I also learned computer programs such as Adobe Photoshop, InDesign, Illustrator, SketchUp, GIS, and AutoCAD,  design in dealing with an increasingly complex project. 
+
+My first quarter project is to redesign process by developing a project for a corner site on Montery Street and California Blvd. San Luis Obispo. For this project, my partner and I went to the site and draw free sketch. We did My second quarter project is to redesign Cal Poly Campus SLO. 
+
+
+The contact page: Page 2
+
+Background color: Niagara (#0AA99E) rgb(10, 169, 158)
+
+Text-color: Mallard (#1A2914) rgb(26,41,20)
+
+(Head Section) font size: 20px
+font-family: 'Merriweather', serif;
+
+(Paragraph) font size: 15px
+font-family: 'Merriweather', serif;
+
+Email: mickono4521@gmail.com
+Phone: (415) 518-9368
+
+
+The project page: Page 3
+
+Background color: Niagara (#0AA99E) rgb(10, 169, 158)
+
+Text-color: Mallard (#1A2914) rgb(26,41,20)
+
+(Head Section) font size: 20px
+font-family: 'WindSong', cursive;
+
+(paragraph) fontsize: 15px;
+font-family: 'Roboto', sans-serif;
+
+1) A New Plaza for San Luis Obispo at Montery Street and California (Fall 2018)
+- Redesign the Site as small park and adjecent building as restaurant
+- Landscape, trees, complementary park equipment
+- contrainers repurposed: 1) tourist office | 2) public rest-rooms 
+- bicycle racks
+- Parking spaces for the restaurant
+
+2) A Redesign Cal Poly Campus at San Luis Obispo (Winter2019)
+- Interpret Implications of site analysis findings and deliver urban design
+decisions
+- Provide students with clearly articulated connection among verbal and visual desciptions of urban design decisions
+- Recognize spatial and functional requirements for a site as comminicated through a site-specific program.
+- Design for site to contain more green space between building and other building. 
+- Create new opportunitesie with the innovation center, new study area and the outdoor lecture amplhitheater. 
