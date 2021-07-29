@@ -21,7 +21,7 @@ font-family: 'Gowun Batang', serif;
 My name is Michael Lo. 
 I am a fouth-year transfer student at Cal Polytechnical State Univeresity in San Luis Obispo. My major is City and Regional Planning. My job is design, help and create cities and public service that are sustainable, affordable and accessible for neighborhoods and communities. I also learned computer programs such as Adobe Photoshop, InDesign, Illustrator, SketchUp, GIS, and AutoCAD,  design in dealing with an increasingly complex project. 
 
-My first quarter project is to redesign process by developing a project for a corner site on Montery Street and California Blvd. San Luis Obispo. For this project, my partner and I went to the site and draw free sketch. We did My second quarter project is to redesign Cal Poly Campus SLO. 
+My first quarter project is to redesign process by developing a project for a corner site on Montery Street and California Blvd. San Luis Obispo. For this project, my partner and I went to the site and draw free sketch. After that, we did site inventory, site analysis, concept diagram, and site plan. My second quarter project is to redesign Cal Poly Campus SLO. 
 
 
 The contact page: Page 2
@@ -59,7 +59,7 @@ font-family: 'Roboto', sans-serif;
 - bicycle racks
 - Parking spaces for the restaurant
 
-2) A Redesign Cal Poly Campus at San Luis Obispo (Winter2019)
+2) Redesign Cal Poly Campus at San Luis Obispo (Winter2019)
 - Interpret Implications of site analysis findings and deliver urban design
 decisions
 - Provide students with clearly articulated connection among verbal and visual desciptions of urban design decisions
